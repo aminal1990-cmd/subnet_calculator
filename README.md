@@ -2,6 +2,12 @@
 
 A Python command-line tool for calculating IPv4 subnets using VLSM (Variable Length Subnet Masking).
 
+
+## 🔗 Live Demo
+
+https://aminal1990-cmd.github.io/subnet_calculator/
+
+
 ## Features
 
 - Splits a base network into a custom number of subnets
